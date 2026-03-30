@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class UC2PassengerBogies{
     public static void main(String[] args){
         ArrayList<String> bogies=new ArrayList<>();
@@ -9,5 +10,6 @@ public class UC2PassengerBogies{
         bogies.remove("AC Chair");
         System.out.println(bogies.contains("Sleeper"));
         System.out.println(bogies);
+
     }
 }
