@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3297a221-28bc-49e6-b3cc-99c6eaf2b36f" name="Changes" comment="" />
+    <list default="true" id="3297a221-28bc-49e6-b3cc-99c6eaf2b36f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/App/src/UC8StreamsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/src/UC9Grouping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/App.iml" beforeDir="false" afterPath="$PROJECT_DIR$/App/App.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/UC8Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/UC8Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainConsistManagementApp/UC2PassengerBogies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainConsistManagementApp/UC3BogieIDs.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -46,11 +55,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.UC1TrainConsistApp.executor": "Run",
+    "Application.UC3BogieIDs.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "UC8-Final",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/Documents/RA2411003011323/TrainConsistManagementApp",
     "project.structure.last.edited": "Modules",
@@ -58,6 +75,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="UC3BogieIDs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UC3BogieIDs" />
