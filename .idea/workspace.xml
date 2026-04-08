@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3297a221-28bc-49e6-b3cc-99c6eaf2b36f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/App/src/UC8StreamsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/src/UC9Grouping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/App.iml" beforeDir="false" afterPath="$PROJECT_DIR$/App/App.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/UC8Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/UC8Streams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrainConsistManagementApp/UC2PassengerBogies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrainConsistManagementApp/UC3BogieIDs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/UC8StreamsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/test/UC8StreamsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +53,7 @@
     "Application.UC1TrainConsistApp.executor": "Run",
     "Application.UC3BogieIDs.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.UC8StreamsTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",

@@ -8,9 +8,7 @@ class UC8StreamsTest{
         list.add(new Bogie("Sleeper",72));
         list.add(new Bogie("AC Chair",54));
         list.add(new Bogie("First Class",24));
-
         List<Bogie> result=list.stream().filter(b->b.capacity>60).toList();
-
         assertEquals(1,result.size());
         assertEquals("Sleeper",result.get(0).name);
     }
