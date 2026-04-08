@@ -1,13 +1,6 @@
 import java.util.*;
 import java.util.stream.*;
-class Bogie{
-    String name;
-    int capacity;
-    Bogie(String name,int capacity){
-        this.name=name;
-        this.capacity=capacity;
-    }
-}
+
 public class UC8Streams{
     public static void main(String[] args){
         List<Bogie> list=new ArrayList<>();
